@@ -1,6 +1,6 @@
 # 购物车:see_no_evil:
 > 基于jq，使用localStorage存取购物车数据
-
+点击查看效果：[购物车页面](https://caifu23.github.io/practices/购物车/list.html)
 localStorage是本地存储，
 实现动态载入产品列表信息、在url传递参数跳转、
 添加商品到购物车、同时将对应商品信息存到本地存储
